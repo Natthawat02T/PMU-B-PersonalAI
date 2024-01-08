@@ -1,4 +1,4 @@
-## นายณัฐวัฒน์ ทุยสุวรรณ์ โรงเรียนกัลยาณวัตร
+## นายณัฐวัฒน์ ทุยสุวรรณ์ โรงเรียนกัลยาณวัตร จ.ขอนแก่น
 # PMU-B-PersonalAI
 ### 1. xPore: An AI-Powered App for Bioinformaticians [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/GMM.ipynb)
 ### 2. Learning from Biosignal  [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/tree/main/pmub-learning-biosignals-main)
