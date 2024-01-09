@@ -6,4 +6,5 @@
 ### 4. BiTNet: AI for diagnosing ultrasound image  [👉Link]()
 ### 5. Mental disorder detection from social media data  [👉Link]()
 ### 6. AI for arresting criminals  [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)
+#### _____________________________________________
 [![Watch the video](https://img5.pic.in.th/file/secure-sv1/-19a2050190d265603.png)](https://www.youtube.com/watch?v=Ivg7J1hbY5Q)
