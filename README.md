@@ -30,4 +30,4 @@
 - Homework [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)
 - certificate [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/6.pdf)
 ---
-[<img src="https://img2.pic.in.th/pic/-2d9792f79e6edb0ca.png" width="550" height="300" />](https://www.youtube.com/watch?v=Ivg7J1hbY5Q)
+[<img src="https://img2.pic.in.th/pic/-2d9792f79e6edb0ca.png" width="550" height="300" />](https://youtu.be/PtwbDncIk3U?si=CxP9FYWa8-xtLinN)
