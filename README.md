@@ -17,12 +17,12 @@
 ---
 ### 4. BiTNet: AI for diagnosing ultrasound image 
 - note [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/notes/4bitnet.pdf)
-- Homework  [👉Link]()
+- Homework  [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb)
 - certificate [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/4.pdf)
 ---
 ### 5. Mental disorder detection from social media data 
 - note [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/notes/5Social.pdf)
-- Homework  [👉Link]()
+- Homework  [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/E_san_coding.ipynb)
 - certificate [👉Link](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/5.pdf)
 ---
 ### 6. AI for arresting criminals  
