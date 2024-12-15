@@ -46,7 +46,7 @@
 ### 5. Mental Disorder Detection from Social Media Data
 - **📝 Note:** [👉 ดาวน์โหลด](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/notes/5Social.pdf)
 - **⌨️ Homework:** [👉 ดูการบ้าน](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/E_san_coding.ipynb)
-- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/Media.jpg)
+- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/media.jpg)
 
 ---
 
