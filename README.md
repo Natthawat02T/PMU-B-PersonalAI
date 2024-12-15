@@ -32,7 +32,7 @@
 ### 3. AI for Detecting Code Plagiarism
 - **📝 Note:** [👉 ดาวน์โหลด](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/notes/3code.pdf)
 - **⌨️ Homework:** [👉 ดูการบ้าน](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/%E0%B8%B7natthawatPMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)
-- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/Detecting_Code_Plagiarism.jpg)
+- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/detecting_code_plagiarism.jpg)
 
 ---
 
