@@ -53,7 +53,7 @@
 ### 6. AI for Arresting Criminals
 - **📝 Note:** [👉 ดาวน์โหลด](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/notes/6criminals.pdf)
 - **⌨️ Homework:** [👉 ดูการบ้าน](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)
-- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/Arresting_Criminals.jpg)
+- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/arresting_criminals.jpg)
 # 🔗 คลิปแนะนำตัว
 [<img src="https://img2.pic.in.th/pic/3ced088b9bafca0e8a39a5e382d93723.png" width="550" height="300" />](https://youtu.be/PtwbDncIk3U?si=CxP9FYWa8-xtLinN)
 ---
