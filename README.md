@@ -71,12 +71,12 @@ PMU-B-PersonalAI/
 │   └── 6criminals.pdf
 │
 │-- certificate/
-│   ├── 1.pdf
-│   ├── 2.pdf
-│   ├── 3.pdf
-│   ├── 4.pdf
-│   ├── 5.pdf
-│   └── 6.pdf
+│   ├── xpor.jpg
+│   ├── biosignal.lpg
+│   ├── Detecting_Code_Plagiarism.jpg
+│   ├── BitNet.jpg
+│   ├── media.jpg
+│   └── Arresting_Criminals.jpg
 │
 └-- homework/
     ├── GMM.ipynb
