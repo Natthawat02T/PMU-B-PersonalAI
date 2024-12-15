@@ -18,7 +18,7 @@
 ### 1. xPore: An AI-Powered App for Bioinformaticians
 - **📝 Note:** [👉 ดาวน์โหลด](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/notes/1xpor.pdf)
 - **⌨️ Homework:** [👉 ดูการบ้าน](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/GMM.ipynb)
-- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://powerclass.org/tutor-certificate-3?cert_hash=de29b7149f867d95)
+- **📜 Certificate:** [👉 ใบประกาศนียบัตร](https://github.com/Natthawat02T/PMU-B-PersonalAI/blob/main/certificate/xpor.jpg)
 
 ---
 
